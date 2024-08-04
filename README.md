@@ -63,19 +63,11 @@ economic-data-analysis/
 
 ├── .env
 
-├── data/
-
-└── output/
-
 **app.py**: Main script for data analysis.
 
 **requirements.txt**: List of dependencies.
 
 **.env**: Environment file containing the FRED API key.
-
-**data/**: Directory to store raw data.
-
-**output/**: Directory to save visualizations and results.
 
 
 # Requirements
